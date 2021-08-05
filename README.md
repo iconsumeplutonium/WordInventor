@@ -69,5 +69,4 @@ and occasionally spit out real words in the English dictionary.
 Once you have downloaded and unzipped the files, go to WordInventor/InventorExecutable.
 Double click `WordInventor.exe` to run. 
 
-Note: If Windows Defender blocks it from running ~~then click run anyways to run the file.~~ it is completely correct, as that executable is actually malware that will 
-allow me to take control of your computer and stream Family Guy 24/7 Full Episodes Livestream (Hindi subtitles) on Youtube. 
+Note: If Windows Defender blocks it from running then click "Run Anyways" to run the file.
